@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="8" passed="8" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-12-29T02:59:53 IST" name="Suite" finished-at="2024-12-29T03:00:21 IST" duration-ms="28125">
+    <groups>
+    </groups>
+    <test started-at="2024-12-29T02:59:53 IST" name="HRMtestcase" finished-at="2024-12-29T03:00:03 IST" duration-ms="9678">
+      <class name="HRMscenariotestcases.HRMtestcase">
+        <test-method is-config="true" signature="beforeTest()[pri:0, instance:HRMscenariotestcases.HRMtestcase@20140db9]" started-at="2024-12-29T02:59:53 IST" name="beforeTest" finished-at="2024-12-29T03:00:00 IST" duration-ms="7279" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method signature="verifylogin()[pri:0, instance:HRMscenariotestcases.HRMtestcase@20140db9]" started-at="2024-12-29T03:00:00 IST" name="verifylogin" finished-at="2024-12-29T03:00:03 IST" duration-ms="2309" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifylogin -->
+      </class> <!-- HRMscenariotestcases.HRMtestcase -->
+    </test> <!-- HRMtestcase -->
+    <test started-at="2024-12-29T03:00:03 IST" name="AdminTestcase" finished-at="2024-12-29T03:00:21 IST" duration-ms="18255">
+      <class name="HRMscenariotestcases.AdminTestcase">
+        <test-method is-config="true" signature="beforeTest()[pri:0, instance:HRMscenariotestcases.AdminTestcase@4b013c76]" started-at="2024-12-29T03:00:03 IST" name="beforeTest" finished-at="2024-12-29T03:00:10 IST" duration-ms="6860" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method signature="verifylogin()[pri:1, instance:HRMscenariotestcases.AdminTestcase@4b013c76]" started-at="2024-12-29T03:00:10 IST" name="verifylogin" finished-at="2024-12-29T03:00:13 IST" duration-ms="3318" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifylogin -->
+        <test-method signature="verifycount()[pri:2, instance:HRMscenariotestcases.AdminTestcase@4b013c76]" started-at="2024-12-29T03:00:13 IST" name="verifycount" finished-at="2024-12-29T03:00:14 IST" duration-ms="446" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifycount -->
+        <test-method signature="verifyoption()[pri:2, instance:HRMscenariotestcases.AdminTestcase@4b013c76]" started-at="2024-12-29T03:00:14 IST" name="verifyoption" finished-at="2024-12-29T03:00:14 IST" duration-ms="386" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyoption -->
+        <test-method signature="verifyclick()[pri:3, instance:HRMscenariotestcases.AdminTestcase@4b013c76]" started-at="2024-12-29T03:00:14 IST" name="verifyclick" finished-at="2024-12-29T03:00:16 IST" duration-ms="1962" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyclick -->
+        <test-method signature="verifyadmin()[pri:4, instance:HRMscenariotestcases.AdminTestcase@4b013c76]" started-at="2024-12-29T03:00:16 IST" name="verifyadmin" finished-at="2024-12-29T03:00:18 IST" duration-ms="1881" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyadmin -->
+        <test-method signature="verifydrop()[pri:5, instance:HRMscenariotestcases.AdminTestcase@4b013c76]" started-at="2024-12-29T03:00:18 IST" name="verifydrop" finished-at="2024-12-29T03:00:20 IST" duration-ms="1869" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifydrop -->
+        <test-method signature="verifystatus()[pri:6, instance:HRMscenariotestcases.AdminTestcase@4b013c76]" started-at="2024-12-29T03:00:20 IST" name="verifystatus" finished-at="2024-12-29T03:00:21 IST" duration-ms="1240" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifystatus -->
+        <test-method is-config="true" signature="afterTest()[pri:0, instance:HRMscenariotestcases.AdminTestcase@4b013c76]" started-at="2024-12-29T03:00:21 IST" name="afterTest" finished-at="2024-12-29T03:00:21 IST" duration-ms="241" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- HRMscenariotestcases.AdminTestcase -->
+    </test> <!-- AdminTestcase -->
+  </suite> <!-- Suite -->
+</testng-results>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+<listeners><listener class-name="com.Report.ExtentITestNGListeners">
+</listener>
+</listeners>
+<test thread-count="5" name="SavedataHrm">
+    <classes>
+      <class name="com.HRM.SavedataHrm"/>
+    </classes>
+  </test> <!-- Test -->
+  <test thread-count="5" name="ReadHRM">
+    <classes>
+      <class name="com.HRM.ReadHRM"/>
+    </classes>
+  </test> <!-- Test -->
+  <test thread-count="5" name="loginandlogout">
+    <classes>
+      <class name="com.HRM.loginandlogout"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
